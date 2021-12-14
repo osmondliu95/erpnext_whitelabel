@@ -31,7 +31,7 @@ Below are important setting in whitelabel setting page.
 
 
 Installation Steps:<br/>
-1. bench get-app https://github.com/bhavesh95863/whitelabel<br/>
+1. bench get-app https://github.com/osmondliu95/erpnext_whitelabel<br/>
 2. bench --site sitename install-app whitelabel<br/>
 3. bench migrate<br/>
 4. bench restart<br/>
